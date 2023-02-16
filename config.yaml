@@ -1,0 +1,6 @@
+chatGPTAccountPool:
+  - email: hg2514@nyu.edu
+    password: Gx!19981016
+    isGoogleLogin: False
+chatPrivateTiggerKeyword: "我有问题"
+openAIProxy: ""
